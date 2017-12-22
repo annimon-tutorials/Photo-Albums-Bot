@@ -1,0 +1,18 @@
+{
+  "name": "photoalbumsbot",
+  "version": "1.0.0",
+  "description": "Telegram bot that creates photo albums",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "aNNiMON",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.17.2"
+  }
+}
